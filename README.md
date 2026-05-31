@@ -37,7 +37,7 @@ For each city, there is a primary and a fallback server. The test first checks t
 | Ertelecom Izhevsk | Izhevsk | st.izhevsk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Irkutsk | Irkutsk | st.irkutsk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Kazan | Kazan | st.kzn.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
-| Ertelecom Kirov | Kirov | st.kirov.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
+| Ertelecom Kirov | Kirov | st.kirov.ertelecom.ru | 5201<br>5202<br>5204<br>5205<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Krasnoyarsk | Krasnoyarsk | st.krsk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Kurgan | Kurgan | st.kurgan.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Kursk | Kursk | st.kursk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
@@ -53,7 +53,7 @@ For each city, there is a primary and a fallback server. The test first checks t
 | Ertelecom Saratov | Saratov | st.saratov.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Tver | Tver | st.tver.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Tomsk | Tomsk | st.tomsk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
-| Ertelecom Tula | Tula | st.tula.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5206<br>5207<br>5208<br>5209 | ✅ |
+| Ertelecom Tula | Tula | st.tula.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5208<br>5209 | ✅ |
 | Ertelecom Tyumen | Tyumen | st.tmn.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Ulyanovsk | Ulyanovsk | st.ulsk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Ufa | Ufa | st.ufa.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
@@ -74,11 +74,11 @@ For each city, there is a primary and a fallback server. The test first checks t
 | Beeline Astrakhan | Astrakhan | astrakhan1.speedtest.corbina.net | 5201 | ✅ |
 | Hostkey Moscow | Moscow | spd-rudp.hostkey.ru | 5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 
-📅 **Latest test:** 30.05.2026 10:26:25 (MSK, UTC+3)
+📅 **Latest test:** 31.05.2026 10:57:54 (MSK, UTC+3)
 
 ✅ **Available**: 41/41 servers
 
 ❌ **Unavailable**: 0/41 servers
 
-⏱️ **Execution time**: 129.5 seconds
+⏱️ **Execution time**: 132.7 seconds
 
