@@ -58,27 +58,27 @@ For each city, there is a primary and a fallback server. The test first checks t
 | Ertelecom Ulyanovsk | Ulyanovsk | st.ulsk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Ufa | Ufa | st.ufa.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Cheboksary | Cheboksary | st.cheb.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
-| Ertelecom Chelyabinsk | Chelyabinsk | st.chel.ertelecom.ru | 5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
+| Ertelecom Chelyabinsk | Chelyabinsk | st.chel.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Yaroslavl | Yaroslavl | st.yar.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
-| Ertelecom Lipetsk | Lipetsk | st.lipetsk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
-| Ertelecom Bryansk | Bryansk | st.bryansk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
-| Ertelecom Volgograd | Volgograd | st.volgograd.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
+| Ertelecom Lipetsk | Lipetsk | st.lipetsk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5209 | ✅ |
+| Ertelecom Bryansk | Bryansk | st.bryansk.ertelecom.ru | 5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
+| Ertelecom Volgograd | Volgograd | st.volgograd.ertelecom.ru | 5201<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Voronezh | Voronezh | st.voronezh.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
-| Ertelecom Nizhny Novgorod | Nizhny Novgorod | st.nn.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
+| Ertelecom Nizhny Novgorod | Nizhny Novgorod | st.nn.ertelecom.ru | 5201<br>5202<br>5203<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Yoshkar-Ola | Yoshkar-Ola | st.yola.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | TTK Volgograd | Volgograd | speed-vgd.vtt.net | 5201 | ✅ |
 | TTK Nizhny Novgorod | Nizhny Novgorod | speed-nn.vtt.net | 5201 | ✅ |
-| TTK Saratov | Saratov | speed.vtt.net | 5201 | ❌ |
+| TTK Saratov | Saratov | speed.vtt.net | 5201 | ✅ |
 | TTK Saransk | Saransk | speed-sar.vtt.net | 5201 | ✅ |
 | Beeline Voronezh | Voronezh | voronezh-speedtest.corbina.net | 5201 | ✅ |
 | Beeline Astrakhan | Astrakhan | astrakhan1.speedtest.corbina.net | 5201 | ✅ |
 | Hostkey Moscow | Moscow | spd-rudp.hostkey.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 
-📅 **Latest test:** 06.06.2026 10:31:10 (MSK, UTC+3)
+📅 **Latest test:** 07.06.2026 11:08:10 (MSK, UTC+3)
 
-✅ **Available**: 40/41 servers
+✅ **Available**: 41/41 servers
 
-❌ **Unavailable**: 1/41 servers
+❌ **Unavailable**: 0/41 servers
 
-⏱️ **Execution time**: 132.0 seconds
+⏱️ **Execution time**: 153.0 seconds
 
