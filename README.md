@@ -32,10 +32,10 @@ For each city, there is a primary and a fallback server. The test first checks t
 
 | Name | City | Address | Port | Status |
 |------|------|---------|------|--------|
-| Ertelecom Barnaul | Barnaul | st.barnaul.ertelecom.ru | 5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
+| Ertelecom Barnaul | Barnaul | st.barnaul.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Yekaterinburg | Yekaterinburg | st.ekat.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Izhevsk | Izhevsk | st.izhevsk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
-| Ertelecom Irkutsk | Irkutsk | st.irkutsk.ertelecom.ru | 5201<br>5202<br>5203<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
+| Ertelecom Irkutsk | Irkutsk | st.irkutsk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Kazan | Kazan | st.kzn.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Kirov | Kirov | st.kirov.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Krasnoyarsk | Krasnoyarsk | st.krsk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
@@ -45,7 +45,7 @@ For each city, there is a primary and a fallback server. The test first checks t
 | Ertelecom Naberezhnye Chelny | Naberezhnye Chelny | st.chelny.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Omsk | Omsk | st.omsk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Penza | Penza | st.penza.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
-| Ertelecom Perm | Perm | st.perm.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
+| Ertelecom Perm | Perm | st.perm.ertelecom.ru | 5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Rostov-on-Don | Rostov-on-Don | st.rostov.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Ryazan | Ryazan | st.ryazan.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Samara | Samara | st.samara.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
@@ -61,7 +61,7 @@ For each city, there is a primary and a fallback server. The test first checks t
 | Ertelecom Chelyabinsk | Chelyabinsk | st.chel.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Yaroslavl | Yaroslavl | st.yar.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Lipetsk | Lipetsk | st.lipetsk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
-| Ertelecom Bryansk | Bryansk | st.bryansk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5209 | ✅ |
+| Ertelecom Bryansk | Bryansk | st.bryansk.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Volgograd | Volgograd | st.volgograd.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Voronezh | Voronezh | st.voronezh.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 | Ertelecom Nizhny Novgorod | Nizhny Novgorod | st.nn.ertelecom.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
@@ -72,13 +72,13 @@ For each city, there is a primary and a fallback server. The test first checks t
 | TTK Saransk | Saransk | speed-sar.vtt.net | 5201 | ✅ |
 | Beeline Voronezh | Voronezh | voronezh-speedtest.corbina.net | 5201 | ✅ |
 | Beeline Astrakhan | Astrakhan | astrakhan1.speedtest.corbina.net | 5201 | ✅ |
-| Hostkey Moscow | Moscow | spd-rudp.hostkey.ru | 5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
+| Hostkey Moscow | Moscow | spd-rudp.hostkey.ru | 5201<br>5202<br>5203<br>5204<br>5205<br>5206<br>5207<br>5208<br>5209 | ✅ |
 
-📅 **Latest test:** 09.08.2026 08:30:29 (MSK, UTC+3)
+📅 **Latest test:** 10.08.2026 08:54:19 (MSK, UTC+3)
 
 ✅ **Available**: 41/41 servers
 
 ❌ **Unavailable**: 0/41 servers
 
-⏱️ **Execution time**: 130.0 seconds
+⏱️ **Execution time**: 123.7 seconds
 
